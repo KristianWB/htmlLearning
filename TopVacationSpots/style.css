@@ -31,5 +31,9 @@ font-family: cursive;
 color: teal;
 }
 h5 {
-color: rebeccapurple;
+color: rebeccapurple !important;
+}
+h5,
+p {
+font-family: Georgia;
 }
