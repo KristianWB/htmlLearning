@@ -30,11 +30,12 @@ body {
   }
   
   #banner .content h1 {
+    border: solid 3px white;
     position: relative;
     top: 50px;
     width: 400px;
     margin: 0 auto;
-    border: solid 3px white;
+    border-radius: 15px;
   }
   
   #main {
@@ -51,11 +52,12 @@ body {
   }
   
   h2 {
+    border: dotted red;
     color: red;
     font-size: 14px;
     line-height: 48px;
     text-align: center;
-    border: dotted 1px red;
+    border: 1px dotted red;
   }
   
   h3 {
@@ -91,19 +93,6 @@ body {
   }
   
   .share a {
-    background: red;
-    border: 1px solid red;
-    border-radius: 3px;
-    color: white;
-    display: inline-block;
-    text-decoration: none;
-  }
-  
-  .share a:hover {
-    background: white;
-    border: 1px solid red;
-    color: red;
-  }
     background: red;
     border: 1px solid red;
     border-radius: 3px;
