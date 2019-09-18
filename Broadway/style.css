@@ -104,7 +104,7 @@ html, body {
   .supporting .col {
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    position: inline-block;
+    display: inline-block;
     width: 200px;
     height: 200px;
   }
